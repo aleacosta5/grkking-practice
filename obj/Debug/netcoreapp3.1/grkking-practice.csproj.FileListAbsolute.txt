@@ -1,0 +1,12 @@
+/Users/alejandroacosta/Repos/grkking-practice/bin/Debug/netcoreapp3.1/grkking-practice.deps.json
+/Users/alejandroacosta/Repos/grkking-practice/bin/Debug/netcoreapp3.1/grkking-practice.runtimeconfig.json
+/Users/alejandroacosta/Repos/grkking-practice/bin/Debug/netcoreapp3.1/grkking-practice.runtimeconfig.dev.json
+/Users/alejandroacosta/Repos/grkking-practice/bin/Debug/netcoreapp3.1/grkking-practice.dll
+/Users/alejandroacosta/Repos/grkking-practice/bin/Debug/netcoreapp3.1/grkking-practice.pdb
+/Users/alejandroacosta/Repos/grkking-practice/obj/Debug/netcoreapp3.1/grkking-practice.csprojAssemblyReference.cache
+/Users/alejandroacosta/Repos/grkking-practice/obj/Debug/netcoreapp3.1/grkking-practice.csproj.CoreCompileInputs.cache
+/Users/alejandroacosta/Repos/grkking-practice/obj/Debug/netcoreapp3.1/grkking-practice.AssemblyInfoInputs.cache
+/Users/alejandroacosta/Repos/grkking-practice/obj/Debug/netcoreapp3.1/grkking-practice.AssemblyInfo.cs
+/Users/alejandroacosta/Repos/grkking-practice/obj/Debug/netcoreapp3.1/grkking-practice.dll
+/Users/alejandroacosta/Repos/grkking-practice/obj/Debug/netcoreapp3.1/grkking-practice.pdb
+/Users/alejandroacosta/Repos/grkking-practice/obj/Debug/netcoreapp3.1/grkking-practice.genruntimeconfig.cache
